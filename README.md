@@ -1,4 +1,4 @@
-<h1 align="center">MaxPhisher</h1>
+<h1 align="center">ExPhisher</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2.2-green?style=for-the-badge">
@@ -168,18 +168,18 @@ If not found, php, ssh and python modoules will be installed on first run
 
 <h1 align="center">Example</h1>
 
-![MaxPhisher](https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/files/maxphisher.gif)
+![ExPhisher](https://raw.githubusercontent.com/KasRoudra/MaxPhisher/main/files/maxphisher.gif)
 
  
 ## Solution of common issues
  - Some secured browsers like Firefox can warn for '@' prefixed links. You should use pure links or custom link to avoid it.
  - Termux from play store in not supported. Download termux from fdroid or github
  - VPN or proxy prevents tunneling and even proper internet access. Turn them off you have issues.
- - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on untill you close MaxPhisher.
+ - Some android requires hotspot to start Cloudflared and Loclx. If you face 'tunneling failed' in android, most probably your hotspot is turned off. Turn it on and keep it on untill you close ExPhisher.
  - If you want mailing credentials then you need to use app password. Visit [here](https://myaccount.google.com/u/0/apppasswords) and generate an app password, put that in `files/email.json`. You may need to enable 2FA before it.
 
 ## [!] Disclaimer
-***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of MaxPhisher!***
+***This tool is developed for educational purposes. Here it demonstrates how phishing works. If anybody wants to gain unauthorized access to someones social media, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of ExPhisher!***
 
 ### [*] Support
 ####  Want to show support? Just spread the word and smash the star button
